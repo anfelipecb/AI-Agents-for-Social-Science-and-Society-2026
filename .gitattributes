@@ -1,1 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
 Tutorials-Homework_Notebooks/data/Week4/Data.zip filter=lfs diff=lfs merge=lfs -text
